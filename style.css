@@ -9,14 +9,14 @@ body {
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    color: gray;
     padding: 25px;
 }
 header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: blue;
     text-decoration: underline;
 }
 .container {
@@ -26,8 +26,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: hot pink(255, 105, 208);
+    background-color: blue;
     padding: 3px;
 }
 
